@@ -1,4 +1,5 @@
 # 🏠 Real Estate Price Forecast App
+View the app from here "https://realestateprice-elo3njhzhwvu5sngyvggfb.streamlit.app/"
 
 This application provides housing price estimates based on property characteristics using a machine learning model deployed through a user-friendly Streamlit interface.
 
